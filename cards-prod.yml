@@ -4,7 +4,7 @@ build:
 cards:
   message: "Hey, welcome to EazyBank cards related prod APIs"
   contactDetails:
-    name: "Zanzarona 4- Product Owner"
+    name: "Zanzarona 5- Product Owner"
     email: "sandra@eazybank.com"
   onCallSupport:
     - (617) 432-2356
